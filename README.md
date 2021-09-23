@@ -1,2 +1,2 @@
 # Javascript-challenge
-Javascript code challenge from course
+Javascript coding challenges from course
